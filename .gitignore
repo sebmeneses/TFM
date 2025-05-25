@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de notebooks temporales
+*.ipynb_checkpoints/
+
+# Archivos de entorno o secretos
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
